@@ -1,0 +1,6 @@
+vi /etc/ansible/hosts
+
+[ansiblegroup]
+Privateip of node1
+Privateip of node2
+
